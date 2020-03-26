@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_18 (Sun Microsystems Inc.)
+
+Name: plugins/purestoragehtml-service.jar
+SHA1-Digest: GG1GLfg723EaJC7XsA8NrP4jTRY=
+
+Name: version.txt
+SHA1-Digest: p+lTRXDQzabitVZZaqz5eILeJas=
+
+Name: plugins/purestoragehtml-ui.war
+SHA1-Digest: JU7/Q9kozdRHBDU6bXrVoh1MFgI=
+
+Name: plugin-package.xml
+SHA1-Digest: KksrgOjp04ZYe+45nzDq/mYRLog=
+
+Name: plugin-signature-metadata.properties
+SHA1-Digest: SL+DLsCUvnSGcUBVLCPgEbqFIPE=
+
