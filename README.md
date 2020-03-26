@@ -18,5 +18,7 @@ New Features:
 -ActiveCluster Datastore Provisioning
 -Pod Datastore Provisioning
 -Non-uniform stretched cluster connections
+-vSphere 7.0 support
+-NVMe-oF Datastore tolerance in datastore detail view
 -Various bug fixes
 
