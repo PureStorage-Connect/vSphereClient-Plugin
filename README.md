@@ -33,7 +33,9 @@
 <!-- wp:list -->
 <ul><li> Volume Group Management </li><li>QoS Configuration </li><li>ActiveCluster Datastore Provisioning </li><li>Pod Datastore Provisioning </li><li>Non-uniform stretched cluster connections </li><li>vSphere 7.0 support </li><li>NVMe-oF Datastore tolerance in datastore detail view </li><li>Various bug fixes </li></ul>
 <!-- /wp:list -->
-
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
 <!-- wp:paragraph -->
 <p><em>To report issues or request new features, please enter them here:</em></p>
 <!-- /wp:paragraph -->
