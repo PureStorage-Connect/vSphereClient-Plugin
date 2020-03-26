@@ -1,4 +1,4 @@
-# vSpherePlugin
+# vSphere Plugin
 The Pure Storage FlashArray Plugin for the vSphere Client
 
 The plugin is supported with the HTML-5 vSphere Client with versions vSphere 6.5 and later. For official support statements, please refer to the VMware compatibility guide here:
