@@ -23,15 +23,37 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Latest version 4.3.0 (April 1st, 2020)</strong></p>
+<p><strong>Latest version 4.3.1 (May 21st, 2020)</strong></p>
 <!-- /wp:paragraph -->
+<h2>4.3.1&nbsp;Release Notes&nbsp;</h2>
 
-<!-- wp:paragraph -->
-<p>New Features in this release</p>
-<!-- /wp:paragraph -->
+<p><strong><strong>Release: </strong></strong>May, 2020</p>
 
-<!-- wp:list -->
-<ul><li> Volume Group Management </li><li>QoS Configuration </li><li>ActiveCluster Datastore Provisioning </li><li>Pod Datastore Provisioning </li><li>Non-uniform stretched cluster connections </li><li>vSphere 7.0 support </li><li>NVMe-oF Datastore tolerance in datastore detail view </li><li>Various bug fixes </li></ul>
+<h3>General&nbsp;</h3>
+
+<p>Version 4.3.1&nbsp;of the Pure Storage vSphere HTML Client Plugin supports vSphere (vCenter and ESXi) version 6.5 and later and Purity version 4.10&nbsp;and later.<br />
+Users can upgrade to this version of the plugin from previous release version 4.x or higher. This version is certified by VMware.</p>
+
+<h3>What’s New&nbsp;</h3>
+
+<ul>
+    <li>For the volume group manager, you can now filter by datastore name, not just volume or volume group name.</li>
+    <li>First release also certified with vSphere&nbsp;6.5.</li>
+</ul>
+
+<h3>Fixed issues&nbsp;</h3>
+
+<ul>
+    <li>Errors in datastore provisioning wizard around loading FlashArray list, matching host groups, or creating the datastore, such as "<strong>String index out of range:"&nbsp;</strong>This was due to introduced code for NVMe-oF&nbsp;based datastores&nbsp;that caused lookups to fail if the type was unknown. This is fixed. Any customer experiencing generic "could not lookup object errors" should upgrade to this release. Multiple pathologies relate to this issue.</li>
+    <li>The LUN ID was shown in the NVMe-oF datastore view, not the NVMe namespace&nbsp;ID. The namespace ID is now correctly shown.</li>
+</ul>
+
+<h3>Known issues&nbsp;</h3>
+
+<ul>
+    <li>Plugin does not offer custom per-feature permissions. Details <a href="/Solutions/VMware_Platform_Guide/User_Guides_for_VMware_Solutions/Using_the_Pure_Storage_Plugin_for_the_vSphere_Client/vSphere_Client:_Role-Based_Access_Control_(RBAC)" target="_blank" title="vSphere Client: Role-Based Access Control (RBAC)">here</a>.&nbsp;</li>
+</ul>
+
 <!-- /wp:list -->
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
