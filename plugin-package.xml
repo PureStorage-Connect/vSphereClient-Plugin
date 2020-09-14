@@ -9,7 +9,7 @@
    type: keep "html" for this plugin to be deployed in the vSphere HTML client.
    name: short name displayed in the Administration < Client plugins view
 -->
-<pluginPackage id="com.purestorage.purestoragehtml" version="4.3.1" type="html"
+<pluginPackage id="com.purestorage.purestoragehtml" version="4.4.0" type="html"
                name="Pure Storage Plugin"
                description="Pure Storage Plugin for managing Pure Storage Arrays."
                vendor="Pure Storage, Inc">

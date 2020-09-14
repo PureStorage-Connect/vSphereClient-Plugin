@@ -2,17 +2,17 @@ Manifest-Version: 1.0
 Created-By: 1.6.0_18 (Sun Microsystems Inc.)
 
 Name: plugins/purestoragehtml-service.jar
-SHA1-Digest: nB7opmbw/q+oPaM6hE/WzXxhLjM=
+SHA1-Digest: lTrY7vFtPsxcWLzh03caH7KAS48=
 
 Name: version.txt
-SHA1-Digest: yCG6oHSzMdv7/GEvFEntxFasbBE=
+SHA1-Digest: JPGlZa0xymKChQW6txzDONLQW1U=
 
 Name: plugins/purestoragehtml-ui.war
-SHA1-Digest: os2aW843+eC55Qb7XFwOVDgM1aM=
+SHA1-Digest: jDTOqUtGsKrOhCZxPgp3OsCnz4U=
 
 Name: plugin-package.xml
-SHA1-Digest: m//2gbesrnoXl4lGVidPXz5mldM=
+SHA1-Digest: Qju88L5R0N8/QuOpenS0m+hwTeQ=
 
 Name: plugin-signature-metadata.properties
-SHA1-Digest: Rrh3r12CyP+yWVf/jF23THZdy1M=
+SHA1-Digest: PxyogXfrJF15wDmn+dnN4xqeiA0=
 
